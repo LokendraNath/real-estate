@@ -33,7 +33,7 @@ const Navbar = () => {
         </ul>
 
         <button className="hidden md:block gap-2 bg-white pt-[6px] pb-[4px] rounded-xl font-semibold group transition-all duration-300 px-3 text-[15px] lg:text-[18px] lg:px-4">
-          <span className="">Sign Up</span>
+          Sign Up
         </button>
 
         <RiMenu3Fill

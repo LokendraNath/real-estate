@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 const Header = () => {
   return (
     <div
-      className="relative min-h-screen mb-4 bg-cover bg-top flex items-center w-full overflow-hidden"
+      className="relative min-h-screen mb-4 bg-cover flex items-center w-full overflow-hidden"
       style={{ backgroundImage: "url('/src/assets/hero-img.jpg')" }}
       id="Header"
     >
