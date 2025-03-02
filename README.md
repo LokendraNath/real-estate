@@ -6,7 +6,7 @@ This is a React project built with Vite. Follow these steps to use and view the 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/LokendraNath/real-estate.git
    ```
 
 2. **Navigate to the Project Directory**
